@@ -1,0 +1,4 @@
+../Core/Src/MOTOR.c:3:6:motorStart	1
+../Core/Src/MOTOR.c:12:6:run	3
+../Core/Src/MOTOR.c:18:6:PWMgen	4
+../Core/Src/MOTOR.c:24:6:stop	1

@@ -1,0 +1,4 @@
+../Core/Src/SERVO.c:6:6:servoStart	8	static
+../Core/Src/SERVO.c:13:10:A2PWM	16	static
+../Core/Src/SERVO.c:18:6:setDefaultAngle	8	static
+../Core/Src/SERVO.c:23:6:turn	16	static
